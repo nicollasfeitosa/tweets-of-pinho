@@ -1,6 +1,6 @@
-# flutter_interface
+# Tweets of Pinho
 
-A new Flutter project.
+App for learning flutter that shows the best quotes / tweets of Pinho
 
 ## Getting Started
 
